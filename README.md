@@ -1,2 +1,2 @@
 # Calculator
-C# program for a calculator. It includes pi, squared, cubed, radical and mod.
+C# gui program for a calculator. It includes pi, squared, cubed, radical and mod buttons.
